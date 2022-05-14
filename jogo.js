@@ -15,7 +15,7 @@ if(nivel === "normal"){
     
 } else if(nivel === "foda") {
    
-    tempoMosquito = 1000
+    tempoMosquito = 250
 
 } else if( nivel === "complicado") {
 
